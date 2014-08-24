@@ -6,7 +6,7 @@ The tidy data produced by the script has the first 2 columns as
 2. "Activity" : One of the following (WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING)
 
 
-This is followed by by MEAN value of various measurements recorded for every combination of Subject and Activity described above
+This is followed by by AVERAGE value of various measurements recorded for every combination of Subject and Activity described above
 
 3.  "tBodyAcc-mean()-X"
 4.  "tBodyAcc-mean()-Y"          
